@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 01 13:35:44 CEST 2021
+@default-com.google.android-https\://mvnrepository.com/artifact/com.google.android/android/.lastUpdated=1622547343456
+https\://mvnrepository.com/artifact/com.google.android/android/.error=Could not transfer artifact org.openpnp\:opencv\:pom\:4.5.1-2 from/to com.google.android (https\://mvnrepository.com/artifact/com.google.android/android)\: Access denied to https\://mvnrepository.com/artifact/com.google.android/android/org/openpnp/opencv/4.5.1-2/opencv-4.5.1-2.pom. Error code 403, 
+http\://jcenter.bintray.com/.lastUpdated=1622547344340
